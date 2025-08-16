@@ -1,63 +1,112 @@
-<!-- Profile Header -->
-<h1 align="center">
-  Hi there 👋, I'm Mehak Goyal  
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-</h1>
-
-<!-- Typing Animation -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?size=25&duration=4000&color=FF5733&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+%26+DSA+Enthusiast;Passionate+About+Building+Real+Projects;Lifelong+Learner+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there!&fontSize=70" />
+</p>
+
+<h1 align="center">I'm [Your Name] 👋</h1>
+<h3 align="center">A Passionate MERN Stack Developer, Java Programmer, and DSA Enthusiast</h3>
+
+---
+
+### 🚀 About Me
+
+I'm a final-year B.Tech student with a strong passion for building beautiful and functional web applications. I thrive on solving complex problems and have a solid foundation in Data Structures and Algorithms. My goal is to leverage my skills in the MERN stack and Java to create innovative solutions.
+
+- 🎓 Final Year B.Tech Student
+- 💻 MERN Stack | Java | DSA
+- 🌱 Always learning and exploring new technologies.
+
+---
+
+### 🛠️ My Tech Stack
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+      </a>
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="48" height="48" alt="Express" />
+      </a>
+      <br>Express
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+      </a>
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+      </a>
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
+      </a>
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
+      </a>
+      <br>CSS3
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🔗 Connect with Me
+
+<p align="center">
+  <a href="[YOUR-LINKEDIN-URL]">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:[YOUR-EMAIL]">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
-- 🎓 Engineering Student | Aspiring **Web Developer / SDE**
-- 💻 Skilled in **MERN Stack** & **Java**
-- 📚 Passionate about **Data Structures & Algorithms**
-- 🌱 Currently exploring **open-source** & advanced backend projects
+### 📈 My GitHub Stats
 
----
-
-## 🛠 Tech Stack & Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <!-- Change the ?username= value to your GitHub username -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+### 📂 My Projects
+
+<details>
+  <summary>Click to see my projects</summary>
+  
+  - **Project 1:** A short description of your project. [Live Demo](#) | [Repo](#)
+  - **Project 2:** A short description of your project. [Live Demo](#) | [Repo](#)
+  
+</details>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehakgoyal&show_icons=true&theme=radical" height="160" />
-  <img src="https://streak-stats.demolab.com?user=mehakgoyal&theme=highcontrast" height="160" />
-</p>
-
----
-
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehakgoyal&theme=react-dark" />
-</p>
-
----
-
-## 🤝 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/mehakgoyal13/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:mehakgoyal1307@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" />
 </p>
