@@ -1,68 +1,48 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=header&text=Welcome%20to%20My%20Profile!&fontSize=60" />
-</p>
+# 👋 Hey, I'm Mehak!  
 
-<div align="center">
-  <h1>Hi there, I'm [Your Name] 👋</h1>
-  <h3>Final Year B.Tech Student | MERN Stack Developer | Java & DSA Enthusiast</h3>
-</div>
+🚀 **Aspiring Software Developer | Full-Stack Developer | Tech Enthusiast**  
 
----
-
-<p align="center">
-  I'm a passionate developer from India, currently finishing my B.Tech degree. I specialize in building robust and scalable web applications using the MERN stack and have a strong command of Java and Data Structures. I love turning ideas into reality through code.
-</p>
+🌱 Currently sharpening my skills in **MERN Stack, Java & DSA**  
+🎯 Goal: Crack on-campus/off-campus placements in **Product-Based Companies**  
+✨ Passionate about building real-world impactful projects  
 
 ---
 
-<h2 align="center">🔗 Connect With Me</h2>
+## 🛠️ Tech Stack
 
-<p align="center">
-  <a href="[YOUR-LINKEDIN-URL]" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:[YOUR-EMAIL]" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
+**Languages:** ![Java](https://img.shields.io/badge/Java-blue?logo=java) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)  
+**Frameworks:** ![React](https://img.shields.io/badge/React-20232A?logo=react) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs)  
+**Databases:** ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb) ![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)  
+**Tools:** ![Git](https://img.shields.io/badge/Git-F05032?logo=git) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code)  
 
 ---
 
-<h2 align="center">🛠️ Languages and Tools</h2>
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,java,js,html,css,git,github,vscode" />
-</p>
+🔹 [**Smart Car Parking System**](https://github.com/your-username/project1) – IoT + Arduino based project improving parking efficiency  
+🔹 [**Student-Friendly Buddy Portal**](https://github.com/your-username/project2) – MERN portal for college management (Attendance + Notes + Exams)  
+🔹 [**Placement Insights Website**](https://github.com/your-username/project3) – Helping students analyze campus placements  
 
 ---
 
-<h2 align="center">📊 My Live GitHub Stats</h2>
+## 📊 GitHub Analytics  
 
-<p align="center"><i>Note: These stats are live and update automatically!</i></p>
+![](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <p align="center">
-        <!-- Change the ?username= value to your GitHub username -->
-        <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=dracula&rank_icon=github&hide_border=true" alt="GitHub Stats" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <p align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=dracula&hide_border=true" alt="GitHub Activity Graph" />
-      </p>
-    </td>
-  </tr>
-</table>
+🐍 Watch my contributions get eaten by a Snake!  
+![snake gif](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg)  
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=footer" />
-</p>
+---
+
+## 🌐 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=firefox)](https://yourportfolio.com)  
+📧 Email: **youremail@example.com**  
+
+---
+
+⭐ *"Code. Learn. Share. Repeat."*  
+
