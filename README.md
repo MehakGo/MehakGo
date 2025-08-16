@@ -1,48 +1,43 @@
-# 👋 Hey, I'm Mehak!  
+<!-- Header with 3D animation -->
+<p align="center">
+  <img src="https://lottie.host/4e1b3eaa-animated-coding.json" width="300">
+</p>
 
-🚀 **Aspiring Software Developer | Full-Stack Developer | Tech Enthusiast**  
+# 🌌 Hi, I'm Mehak  
 
-🌱 Currently sharpening my skills in **MERN Stack, Java & DSA**  
-🎯 Goal: Crack on-campus/off-campus placements in **Product-Based Companies**  
-✨ Passionate about building real-world impactful projects  
-
----
-
-## 🛠️ Tech Stack
-
-**Languages:** ![Java](https://img.shields.io/badge/Java-blue?logo=java) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)  
-**Frameworks:** ![React](https://img.shields.io/badge/React-20232A?logo=react) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs)  
-**Databases:** ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb) ![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)  
-**Tools:** ![Git](https://img.shields.io/badge/Git-F05032?logo=git) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code)  
+✨ *Engineering Student | Future SDE | Web Developer*  
+🚀 Exploring **Java | MERN | DSA**  
+🌱 Passionate about **building, learning & sharing tech**  
 
 ---
 
-## 🚀 Featured Projects
-
-🔹 [**Smart Car Parking System**](https://github.com/your-username/project1) – IoT + Arduino based project improving parking efficiency  
-🔹 [**Student-Friendly Buddy Portal**](https://github.com/your-username/project2) – MERN portal for college management (Attendance + Notes + Exams)  
-🔹 [**Placement Insights Website**](https://github.com/your-username/project3) – Helping students analyze campus placements  
-
----
-
-## 📊 GitHub Analytics  
-
-![](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
-
-🐍 Watch my contributions get eaten by a Snake!  
-![snake gif](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg)  
+## 🔮 About Me  
+🎓 Engineering Student (Tier-3 → Big Goals)  
+💻 Love to solve problems & build practical solutions  
+🌍 Dreaming of making an impact with technology  
+🌀 Exploring **Backend Development** & **AI tools**  
 
 ---
 
-## 🌐 Connect with Me  
+## 🛠️ Tech Universe  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=firefox)](https://yourportfolio.com)  
-📧 Email: **youremail@example.com**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,mysql,html,css,git,vscode&theme=dark" />
+</p>
 
 ---
 
-⭐ *"Code. Learn. Share. Repeat."*  
+## 🌐 Connect With Me  
 
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://cdn.lordicon.com/tyounuzx.json" width="60"></a>
+  <a href="mailto:youremail@example.com"><img src="https://cdn.lordicon.com/nocovwne.json" width="60"></a>
+</p>
+
+---
+
+## 🌈 Fun Section  
+🌀 *Random Tech Quote Generator (dynamic)*  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+🌟 *Coding = Magic + Logic*  
