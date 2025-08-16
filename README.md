@@ -1,43 +1,29 @@
-<!-- Header with 3D animation -->
+<h1 align="center"> Hi 👋, I'm Mehak </h1>
+
 <p align="center">
-  <img src="https://lottie.host/4e1b3eaa-animated-coding.json" width="300">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </p>
 
-# 🌌 Hi, I'm Mehak  
-
-✨ *Engineering Student | Future SDE | Web Developer*  
-🚀 Exploring **Java | MERN | DSA**  
-🌱 Passionate about **building, learning & sharing tech**  
+💡 *Engineering Student | Aspiring SDE | Web Developer*  
+🎯 Exploring **Java | MERN | DSA**  
+🌌 Passionate about **building, learning & sharing tech**
 
 ---
 
-## 🔮 About Me  
-🎓 Engineering Student (Tier-3 → Big Goals)  
-💻 Love to solve problems & build practical solutions  
-🌍 Dreaming of making an impact with technology  
-🌀 Exploring **Backend Development** & **AI tools**  
-
----
-
-## 🛠️ Tech Universe  
-
+## 🪐 My Tech Universe
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,mysql,html,css,git,vscode&theme=dark" />
 </p>
 
 ---
 
-## 🌐 Connect With Me  
-
+## 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://cdn.lordicon.com/tyounuzx.json" width="60"></a>
-  <a href="mailto:youremail@example.com"><img src="https://cdn.lordicon.com/nocovwne.json" width="60"></a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
+  </a>
+  <a href="mailto:youremail@example.com">
+    <img src="https://media.giphy.com/media/3o7aD4O3TuU6Txh4cE/giphy.gif" width="50">
+  </a>
 </p>
 
----
-
-## 🌈 Fun Section  
-🌀 *Random Tech Quote Generator (dynamic)*  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-🌟 *Coding = Magic + Logic*  
