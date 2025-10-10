@@ -5,7 +5,7 @@ Welcome to my GitHub profile.
 
 ## 🚀 About Me
 
-- 👩‍💻 I’m a MERN Stack and Web Developer.
+- 👩‍💻 I’m a Full-Stack Developer under MERN stack.
 - 🌱 Passionate about building modern, responsive web applications.
 - 💡 I love working on open-source projects and collaborating with the community.
 - 🎯 Always eager to explore new technologies and improve my skills.
