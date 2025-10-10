@@ -26,7 +26,7 @@ Welcome to my GitHub profile.
 ## 🌟 Featured Personal Projects
 
 ### [CorpStay](https://github.com/MehakGo/CorpStay)
-A smart platform designed to simplify the process of finding and managing corporate stays. CorpStay streamlines accommodation booking for business travelers and companies, offering a seamless and efficient experience.
+A smart platform designed to simplify the process of finding affordable corporate stays for short term . CorpStay streamlines accommodation booking  for internships, relocations or coorporate projects offering a seamless and efficient experience.
 
 ### [MockZoom](https://github.com/MehakGo/MockZoom)
 A web application that simulates virtual meetings, helping users practice and improve their online interview or meeting skills with a Zoom-like interface.
