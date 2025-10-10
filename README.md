@@ -31,13 +31,10 @@ A smart platform designed to simplify the process of finding and managing corpor
 ### [MockZoom](https://github.com/MehakGo/MockZoom)
 A web application that simulates virtual meetings, helping users practice and improve their online interview or meeting skills with a Zoom-like interface.
 
-## 📈 GitHub Stats
-
-![MehakGo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MehakGo&show_icons=true&hide=prs&theme=default)
 
 ## 📫 How to reach me
 
-- [GitHub](https://github.com/MehakGo)
+- [Linkedin](https://www.linkedin.com/in/mehakgoyal13/)
 
 ---
 
