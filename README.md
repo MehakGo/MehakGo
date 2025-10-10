@@ -35,7 +35,42 @@ A web application that simulates virtual meetings, helping users practice and im
 ## 📫 How to reach me
 
 - [Linkedin](https://www.linkedin.com/in/mehakgoyal13/)
+ 
+## 🏆 Achievements
 
+- Participated in Google Summer of Code (GSSoC)
+ - Participated in Google Summer of Code (GSSoC)
+	- PRs made & merged (selected):
+		- Civix — "feat: Add Custom Form Validation to Contact Form" — https://github.com/HarshS16/Civix/pull/609 (merged)
+		- AlgoVisualizer — "Add Custom JavaScript Validation in Doubt form" — https://github.com/RhythmPahwa14/AlgoVisualizer/pull/69 (merged)
+		- CareSync — "ADD Feat: Custom JS form Validation for register form" — https://github.com/akathedeveloper/CareSync/pull/217 (merged)
+		- VJ-Hostels — "Enhancement : Enhance CSS styling of student login Form" — https://github.com/DormMateOS/VJ-Hostels/pull/19 (merged)
+
+ - Participated in OSCI
+	- PRs made & merged (selected):
+		- RuRal-ReTreats — "Feat: ADD JS form validation for registeration form" — https://github.com/Nayanika1402/RuRal-ReTreats/pull/324 (merged)
+		- VigyBag — "feat: Add CSS styling to footer" — https://github.com/codervivek5/VigyBag/pull/2595 (merged)
+		- CodeConclave — "feat: Improve Accessibility (a11y) of Authentication Forms" — https://github.com/lukiod/CodeConclave/pull/94 (merged)
+
+ - Forked repositories (examples from your profile)
+	 - AlgoVisualizer
+	 - BookReview
+	 - CareSync
+	 - Civix
+	 - CodeConclave
+	 - Codify
+	 - KiddieGPT
+	 - llmware
+	 - notesvault
+	 - VigyBag
+	 - Research-Paper-Organizer
+	 - WanderLust
+	 - many others — full list available on your GitHub repositories page: https://github.com/MehakGo?tab=repositories
+
+ - Enoverse-3d — Awarded 5th position in the EONVERSE 3D Hackathon
+	 - Repository: https://github.com/MehakGo/EONVERSE_WEBSITE_LINK
+
+If any of the links or labels above need correction (or you'd like me to include more PRs/issues), tell me and I'll update the README to add descriptions, dates, or counts.
 ---
 
 ✨ Thanks for visiting my profile!
