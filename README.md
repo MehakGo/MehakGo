@@ -38,8 +38,8 @@ A web application that simulates virtual meetings, helping users practice and im
  
 ## 🏆 Achievements
 
-- Participated in Google Summer of Code (GSSoC)
- - Participated in Google Summer of Code (GSSoC)
+- Participated in GirlScript Summer of Code (GSSoC)
+ - Participated in GirlScript Summer of Code (GSSoC)
 	- PRs made & merged (selected):
 		- Civix — "feat: Add Custom Form Validation to Contact Form" — https://github.com/HarshS16/Civix/pull/609 (merged)
 		- AlgoVisualizer — "Add Custom JavaScript Validation in Doubt form" — https://github.com/RhythmPahwa14/AlgoVisualizer/pull/69 (merged)
@@ -52,25 +52,7 @@ A web application that simulates virtual meetings, helping users practice and im
 		- VigyBag — "feat: Add CSS styling to footer" — https://github.com/codervivek5/VigyBag/pull/2595 (merged)
 		- CodeConclave — "feat: Improve Accessibility (a11y) of Authentication Forms" — https://github.com/lukiod/CodeConclave/pull/94 (merged)
 
- - Forked repositories (examples from your profile)
-	 - AlgoVisualizer
-	 - BookReview
-	 - CareSync
-	 - Civix
-	 - CodeConclave
-	 - Codify
-	 - KiddieGPT
-	 - llmware
-	 - notesvault
-	 - VigyBag
-	 - Research-Paper-Organizer
-	 - WanderLust
-	 - many others — full list available on your GitHub repositories page: https://github.com/MehakGo?tab=repositories
-
  - Enoverse-3d — Awarded 5th position in the EONVERSE 3D Hackathon
 	 - Repository: https://github.com/MehakGo/EONVERSE_WEBSITE_LINK
-
-If any of the links or labels above need correction (or you'd like me to include more PRs/issues), tell me and I'll update the README to add descriptions, dates, or counts.
----
 
 ✨ Thanks for visiting my profile!
