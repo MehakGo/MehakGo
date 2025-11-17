@@ -39,7 +39,6 @@ A web application that simulates virtual meetings, helping users practice and im
 ## 🏆 Achievements
 
 - Participated in GirlScript Summer of Code (GSSoC)
- - Participated in GirlScript Summer of Code (GSSoC)
 	- PRs made & merged (selected):
 		- Civix — "feat: Add Custom Form Validation to Contact Form" — https://github.com/HarshS16/Civix/pull/609 (merged)
 		- AlgoVisualizer — "Add Custom JavaScript Validation in Doubt form" — https://github.com/RhythmPahwa14/AlgoVisualizer/pull/69 (merged)
